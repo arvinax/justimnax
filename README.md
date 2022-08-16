@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on creating a javascript ## new library 
+- 🔭 I’m currently working on creating a new javascript ### library 
 - 🌱 I’m currently learning React.js and Node.js
 - 👯 I’m looking to collaborate on full-stack web applications using reactJS and nodeJS
 
