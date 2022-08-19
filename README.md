@@ -3,7 +3,8 @@
 
 
 
-- 🔭 I’m currently working on a **new javascript library**  and **Coursee** new website
-- 🌱 I’m currently learning React.js and Node.js
-- 👯 I’m looking to collaborate on full-stack web applications using reactJS and nodeJS
+- I’m currently workning in an **internatioal origanization (Coursee)** as a **fullstack developer**
+- I'm developing a **new javascript library**
+- I’m learning React.js and Node.js
+- I’m looking to collaborate on full-stack web applications using reactJS and nodeJS
 
