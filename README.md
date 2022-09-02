@@ -3,6 +3,6 @@
 
 
 
-- I’m learning advanced concepts of the core of javascript frameworks
+- I’m learning advanced concepts of the javascript frameworks core
 
 
