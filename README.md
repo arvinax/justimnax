@@ -2,7 +2,3 @@
 
 
 
-
-- I’m learning advanced concepts of the javascript frameworks core
-
-
